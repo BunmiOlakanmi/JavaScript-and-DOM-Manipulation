@@ -13,9 +13,10 @@ console.log(tableData);
 data.forEach(function(UFO)
 {
     console.log(UFO);
-    //step 2
+    //step 2: Create table rows 
     var row = tbody.append("tr")
-    //step 3
+
+    //step 3: Create cells to write the table data on the wep page
     Object.entries(UFO).forEach(function([key, value])
     {
         var cell = row.append("td")
@@ -23,16 +24,13 @@ data.forEach(function(UFO)
     })
 });
 
-//To handle search based on date/time
+//To handle search based on user input
 var text = d3.select('.form-control');
 var button = d3.select('.btn-default');
 button.on("click", processInput)
-//form.on("select", processInput)
 
-
-//Function to process input date/time by users
+//Function to process input of date/time, city, state, country and shape by users
 function processInput(){
-   // var selected = text.property("value")
     var date = d3.select("#datetime").property("value");
     var city = d3.select("#city").property("value");
     var state = d3.select("#state").property("value");
@@ -64,9 +62,10 @@ function processInput(){
         filteredData = filteredData.filter(row => row.shape == shape)
     }
 
+    // Delete the table before writing new table contents, based on user input (search criteria)
     tbody.html("")
 
-    
+    // Create table rows and cells to write search results, based on user input (search criteria)
     filteredData.forEach((data) => 
     {
         var row = tbody.append("tr")
