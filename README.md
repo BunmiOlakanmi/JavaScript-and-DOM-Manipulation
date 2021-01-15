@@ -34,5 +34,6 @@ Using multiple input tags and/or select dropdowns, write JavaScript code so the 
 4. country
 5.  shape
 
-
+#### Checklists
+The datasets can be found in the data.js file saved in the 
 
