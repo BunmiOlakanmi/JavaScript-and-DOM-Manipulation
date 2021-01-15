@@ -57,7 +57,7 @@ function processInput(){
 
         filteredData = filteredData.filter(row => row.country == country)
     }
-    else if (shape) {
+    if (shape) {
 
         filteredData = filteredData.filter(row => row.shape == shape)
     }
