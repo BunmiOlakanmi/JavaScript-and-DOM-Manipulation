@@ -35,5 +35,5 @@ Using multiple input tags and/or select dropdowns, write JavaScript code so the 
 5.  shape
 
 #### Checklists
-The datasets can be found in the data.js file saved in the 
+The UFO datasets can be found in the data.js file saved in the static/js folder route. Also, the JavaScript file to implement levels 1 and 2 is named app.js and saved in the static/js folder route, while the html file is named index.html.   
 
