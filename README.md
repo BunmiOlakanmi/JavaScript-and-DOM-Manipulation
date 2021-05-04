@@ -1,6 +1,9 @@
 # JavaScript and DOM Manipulation
 
-[UFO-level-1-2/static/images/UFO.png] <img width="1402" alt="UFO" src="https://user-images.githubusercontent.com/71471355/116989247-bcee4f00-ac8e-11eb-94fd-e8b4ab9a1ec5.png">
+<img width="1402" alt="UFO" src="https://user-images.githubusercontent.com/71471355/116989247-bcee4f00-ac8e-11eb-94fd-e8b4ab9a1ec5.png">
+
+The challenge here is to write code to create a table dynamically, based on the [UFO sightings data](https://github.com/BunmiOlakanmi/JavaScript_and_DOM_Manipulation/blob/main/UFO-level-1-2/static/js/data.js)
+
 
 
 WAKE UP SHEEPLE! The extra-terrestrial menace has come to Earth and we here at ALIENS-R-REAL have collected all of the eye-witness reports we could to prove it! All we need to do now is put this information online for the world to see and then the matter will finally be put to rest.
