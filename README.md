@@ -33,5 +33,11 @@ Level 1 involves the following basic tasks:
 
 
 ### Files
-1. 
-The UFO datasets can be found in the data.js file saved in the static/js folder route. Also, the JavaScript file to implement levels 1 and 2 is named app.js and saved in the static/js folder route, while the html file is named index.html.   
+1. `index.html` is the `HTML` page that renders the UFO sightings data on the web browser.
+2. `UFO-level-1-2` folder contains the `static` folder which housed the `css`, `js` and `images` folders.
+3. `images` folder contains some the images used in the readme file.
+4. `css` folder contains the `style.css` file, which styles the `index.html` page.
+5. `js` folder contains the `app.js` and `data.js` files.
+6. `app.js` file contains the JavaScript code that dynamically loads and excutes user's quaery on the `index.html` page.
+7. `data.js` file contains [UFO sighthings data](https://github.com/BunmiOlakanmi/JavaScript_and_DOM_Manipulation/blob/main/UFO-level-1-2/static/js/data.js)
+
