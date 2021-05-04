@@ -11,7 +11,7 @@ The challenge here is to write code to create a table dynamically, based on the 
 3. CSS
 
 ### Instructions
-There two levels to this challenge.
+There two levels to this challenge, but both have been implemented on the same web page. To try the functionalities, download the `index.html` file and all the files in the `UFO-Level-1-2` folder. Then, open the index.html with your preferred web browser. 
 
 #### Level 1: Automatic Table and Date Search
 Level 1 involves the following basic tasks:
