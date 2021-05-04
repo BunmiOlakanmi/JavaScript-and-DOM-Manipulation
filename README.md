@@ -34,7 +34,7 @@ Level 1 involves the following basic tasks:
 
 ### Files
 1. `index.html` is the `HTML` page that renders the UFO sightings data on the web browser.
-2. `UFO-level-1-2` folder contains the `static` folder which housed the `css`, `js` and `images` folders.
+2. `UFO-level-1-2` folder contains the `static` folder which houses the `css`, `js` and `images` folders.
 3. `images` folder contains some the images used in the readme file.
 4. `css` folder contains the `style.css` file, which styles the `index.html` page.
 5. `js` folder contains the `app.js` and `data.js` files.
