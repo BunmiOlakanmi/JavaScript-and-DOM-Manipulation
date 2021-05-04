@@ -6,8 +6,7 @@ The challenge here is to write code to create a table dynamically, based on the 
 
 ### Tools
 1. JavaScript libraries:
-  - D3
-  - 
+      - D3
 2. HTML
 3. CSS
 
@@ -19,6 +18,8 @@ Level 1 involves the following basic tasks:
 1.  A basic HTML page to view the table populated by the UFO sightings data, with columns for date/time, city, state, country, shape and comments.
 2.  All the UFO data were appended to the table, with each new row added for each UFO sighting.
 3.  A search textbox was created to search UFO data based on the date of sighting.
+<img width="1290" alt="Screen Shot 2021-05-04 at 4 36 07 AM" src="https://user-images.githubusercontent.com/71471355/116991903-7d296680-ac92-11eb-9068-f0f533beade1.png">
+
 
 #### Level 2: Multiple Search Categories
 1. Level 2 contains all level 1 criteria with additional information. 
@@ -28,6 +29,8 @@ Level 1 involves the following basic tasks:
   - state
   - country
   - shape
+<img width="1065" alt="Screen Shot 2021-05-04 at 4 36 42 AM" src="https://user-images.githubusercontent.com/71471355/116991946-8b778280-ac92-11eb-8381-7030feb5b049.png">
+
 
 ### Files
 1. 
